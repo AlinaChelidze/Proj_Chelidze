@@ -18,4 +18,5 @@ def find_K(N):
 
 N = 10
 K, sum1 = find_K(N)
-print(f"Наименьшее K для N = {N}: {K}, сумма: {sum1}")
+print (f"Наименьшее K для N = {N}:{K},сумма: {sum1}")
+

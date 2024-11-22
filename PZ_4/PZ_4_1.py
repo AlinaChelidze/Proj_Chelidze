@@ -13,7 +13,6 @@ def sum_of_fractions(N):
     sum += 1 / i
   return sum
 
-
-N = 10
+N = 3
 sum1 = sum_of_fractions(N)
 print(f"Сумма для N = {N}: {sum1}")
